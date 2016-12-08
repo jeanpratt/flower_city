@@ -1,0 +1,127 @@
+<ion-view view-title="{{ place.title }}">
+	<ion-content>
+	
+		<!-- First Image and Caption -->
+		<figure class="image image-header">
+			<a href="" ng-click="showImage(place.images[0].src, place.images[0].caption, place.images[0].source)">
+				<img ng-src="{{ place.images[0].src }}" class="fullscreen-image" />
+				<i class="icon ion-plus-circled showmore"></i>
+			</a>
+		</figure>
+	  
+	  	<section class="padding">
+		  	<!-- Place Title and Address -->
+		  	<h4>{{ place.heading }}</h4>
+			<h5>Chapter {{ place.id }}: {{ place.title }},
+			<br /> {{ place.address }}</h5>
+		
+			<!-- First Paragraph -->
+			<p>
+				{{ place.sections[0] }}
+			</p>
+			
+			<!-- Second Paragraph -->
+			<p>
+				{{ place.sections[1] }}
+			</p>
+		</section>
+		
+		<!-- Image Slider and Caption -->
+		<ion-slides options="swiper.options" slider="swiper.data.slider">
+			<ion-slide-page ng-repeat="image in place.slider" ng-click="showImage(image.src, image.caption, image.source)">
+				<img ng-src="{{ image.src }}" class="slider-image" />
+				<i class="icon ion-plus-circled showmore"></i>
+	  		</ion-slide-page>
+		</ion-slides>
+		<div class="custom-swiper-pagination swiper-pagination"></div>
+		
+		<section class="padding">
+			<!-- Third Paragraph -->
+			<p>
+				{{ place.sections[2] }}
+			</p>
+		
+			<!-- Fourth Paragraph -->
+			<p>
+				{{ place.sections[3] }}
+			</p>
+		</section>
+		
+		<!-- First Audio Track -->
+		<div class="audio">
+			<h2>{{ place.tracks[0].speaker }}</h2>
+			<figure>
+				<img class="audio-thumb" ng-src="{{ place.tracks[0].thumbnail }}">
+				<figcaption>{{ place.tracks[0].time }} minutes</figcaption>
+			</figure>
+			<p>
+				{{ place.tracks[0].script }}
+			</p>
+			<div class="col-100" ng-bind-html="audioCall(0)"></div>
+		</div>
+		
+		<!-- Second Image and Caption -->
+		<figure class="image">
+			<a href="" ng-click="showImage(place.images[1].src, place.images[1].caption, place.images[1].source)">
+				<img ng-src="{{ place.images[1].src }}" class="single-image" />
+				<i class="icon ion-plus-circled showmore"></i>
+			</a>
+		</figure>
+		
+		<section class="padding">
+			<!-- Fifth Paragraph -->
+			<p>
+				{{ place.sections[4] }}
+			</p>
+		
+			<!-- Sixth Paragraph -->
+			<p>
+				{{ place.sections[5] }}
+			</p>
+		</section>
+		
+		<!-- Second Audio Track -->
+		<div class="audio">
+			<h2>{{ place.tracks[1].speaker }}</h2>
+			<figure>
+				<img class="audio-thumb" ng-src="{{ place.tracks[1].thumbnail }}">
+				<figcaption>{{ place.tracks[1].time }} minutes</figcaption>
+			</figure>
+			<p>
+				{{ place.tracks[1].script }}
+			</p>
+			<div class="col-100" ng-bind-html="audioCall(1)"></div>
+		</div>
+		
+		<!-- Third Image and Caption -->
+		<figure class="image">
+			<a href="" ng-click="showImage(place.images[2].src, place.images[2].caption, place.images[2].source)">
+				<img ng-src="{{ place.images[2].src }}" class="single-image" />
+				<i class="icon ion-plus-circled showmore"></i>
+			</a>
+		</figure>
+		
+		<!-- Seventh Paragraph -->
+		<p class="padding">
+			{{ place.sections[6] }}
+		</p>
+		
+		<!-- Third Audio Track -->
+		<div class="audio">
+			<h2>{{ place.tracks[2].speaker }}</h2>
+			<figure>
+				<img class="audio-thumb" ng-src="{{ place.tracks[2].thumbnail }}">
+				<figcaption>{{ place.tracks[2].time }} minutes</figcaption>
+			</figure>
+			<p>
+				{{ place.tracks[2].script }}
+			</p>
+			<div class="col-100" ng-bind-html="audioCall(2)"></div>
+		</div>
+		
+		<!-- Eighth Paragraph -->
+		<p class="padding">
+			{{ place.sections[7] }}
+		</p>
+	</ion-content>
+</ion-view>

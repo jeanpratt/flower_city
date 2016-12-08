@@ -1,0 +1,20 @@
+<div class="modal-background" ng-click="closeModal()"></div>
+<div class="modal image-modal">
+	<div class="image-background" ng-click="closeModal()"></div>
+	<img ng-src="{{ image }}" class="modal-image" ng-click="closeModal()">
+</div>
+<div class="modal-caption">
+	<div class="header" ng-click="toggleInfo()">
+		<span ng-hide="info">More </span>
+		<span ng-show="info">Less </span>
+		information
+		<i class="icon ion-chevron-down" ng-hide="info"></i>
+		<i class="icon ion-chevron-up" ng-show="info"></i>
+	</div>
+	<div class="caption" ng-class="info ? 'expand-item active' : 'expand-item inactive'">
+		<p>
+			{{ caption }}
+		</p>
+		<p id="source">Photo courtesy of: {{ source }}</p>
+	</div>
+</div>

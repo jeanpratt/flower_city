@@ -1,0 +1,682 @@
+[
+	{
+		"id": 1,
+		"title": "Ellwanger & Barry Office",
+		"heading": "The Beginnings of Mount Hope Nurseries",
+		"address": "668 Mount Hope Avenue",
+		"lat": 43.136967,
+		"lng": -77.613913,
+		"description": "This is a short sentence about the Ellwanger and Barry Office, which is stated by this app.",
+		"thumb": "img/eboffice-thumb.jpg",
+		"images": [
+			{
+				"src": "img/eboffice-1.jpg",
+				"caption": "This image of The Ellwanger & Barry Nursery office was appeared on postcard printed in the 1910s. The Gothic style building was constructed in 1855 in close proximity to the homes of both of the nursery’s founders. George Ellwanger lived right across the street and Patrick Barry lived right next door. It appears that the founding nurserymen liked to live where they worked.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/eboffice-2.jpg",
+				"caption": "George Ellwanger most likely experienced a similar view to this image taken around 1910 at the beginning of the Erie Canal Aqueduct. The Erie Canal used to run right across the Genesee River in downtown Rochester where the Broad Street Bridge is today.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/eboffice-3.jpg",
+				"caption": "(From left to right) Patrick Barry and George Ellwanger, the founders of the world-renowned Mount Hope Nursery, were said to have had a great working relationship despite having very different temperaments.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			}
+		],
+		"sections": [
+			"Our first stop is a gothic revival style mansion gated off and half hidden behind conifer trees at 668 Mount Hope Avenue. It was built in 1855 to house the offices of the Mount Hope Nurseries.",
+			"From this building, the nursery founders George Ellwanger and Patrick Barry managed thousands of orders from gardeners, municipalities, fledgling nurseries and royal estates from around the world.",
+			"George Ellwanger was born in a small Bavarian town located in present day Germany in 1816. His passion for horticulture bloomed early. Ellwanger grew up assisting his father who worked on a vineyard. Yearning for better economic prospects than what his post-Napoleonic war torn homeland had to offer, he apprenticed at a prominent German nursery in 1830 before emigrating to the United States five years later in search of more fruitful economic prospects.",
+			"During his journey along the brand new Erie Canal to live with relatives in Ohio, his boat stopped here in Rochester, N.Y. Ellwanger saw potential in this rapidly growing city with its abundant mills powered by the waters of the Genesee River as it traveled north to the great Lake Ontario. Rochester had late Springs, a long harvest season, rich soil left over from 100,000 year-old glacial deposits and a canal super highway that ran straight through the city’s center. Altogether these factors made Rochester perfect for cultivating and shipping abundant varieties of hardy plants.",
+			"Although he continued on to Ohio, Ellwanger couldn’t get Rochester out of his head. He would ultimately return to the city known nationwide as the “Young Lion of the West” just months later and establish himself as a foreman for what would soon be a defunct horticultural firm. Instead of losing hope, however, Ellwanger saw an opportunity. He bought the plants (referred to as stock in the horticultural world), from the failed nursery and rented a few acres of land on the outskirts of the city. With the help of a savvy Irish businessman, the eight-acre Mount Hope Botanical and Pomological Gardens would grow into the 600-acre world-renowned Mount Hope Nurseries.",
+			"Ellwanger started the business that would also go by the name of Ellwanger and Barry Nurseries, it probably would not have grown in size and prominence without the partnership he found with Patrick Barry. Born to a tenant farmer in Belfast, Ireland the same year as Ellwanger, Barry’s first profession was that of a schoolteacher. He too became dissatisfied with the bleak economic prospects of his homeland and left for the United States only one year after his future business partner left Germany. After arriving here, he began working as a clerk at the first large commercial nursery operation in America: William Prince’s Linnaean Botanic Garden on Long Island. Just four years later in 1840 he too would make his way up north to Rochester. Shortly after arriving in the city he met George Ellwanger, the man he would work with and live right across the street from until his death fifty years later.",
+			"The partnership between the men is often described as being unexpected due to their different temperaments. Ellwanger and Barry came from two different cultural and religious backgrounds. Ellwanger was a Protestant Lutheran, while Barry was Catholic. Although both men held a deep passion for horticulture, their interests outside the nursery business differed. Historians describe Ellwanger as being a quiet man who concerned himself with the financial interests of the city. He served on the boards of many Rochester area banks. Barry on the other hand was more social and vocal about his horticulture interests. Most likely fed by his original experience as a schoolteacher, Barry dedicated much of his time educating others in the field. He was actively involved in many horticultural societies and wrote extensively for publications such as The Genesee Farmer and The Horticulturist. Despite their differences, one of George Ellwanger’s granddaughters would later reminisce about how there was never a cross word between the two men.",
+			"Today the University of Rochester privately owns both the building that was once Ellwanger and Barry’s headquarters as well as Patrick Barry’s coral Italian style home next door. The university also houses Ellwanger and Barry’s business and personal papers, as well as many of the photographs seen here, in the Rare Books Collection at the Rush Rhees Library."
+		],
+		"tracks": [
+			{
+				"id": 0,
+				"src": "audio/eboffice-1.mp3",
+				"script": "Dan Cody, of the Rochester Historical Society, recounts Ellwanger & Barry’s world wide horticultural influnce",
+				"thumbnail": "img/thumb-cody.jpg",
+				"speaker": "Dan Cody",
+				"time": "1:30"
+			},
+			{
+				"id": 1,
+				"src": "audio/eboffice-2.mp3",
+				"script": "William Ellwanger, son of George Ellwanger, recounts a story about his father’s nursery and “A Snuffbox Full of Trees.” Read By Yevgeniy Parfilko.",
+				"thumbnail": "img/thumb-snuffbox.jpg",
+				"speaker": "William Ellwanger",
+				"time": "3:15"
+			},
+			{
+				"id": 2,
+				"src": "audio/eboffice-3.mp3",
+				"script": "Susan Maney, of the Monroe County Parks System, explores the temperments of Ellwanger and Barry.",
+				"thumbnail": "img/thumb-maney.jpg",
+				"speaker": "Susan Maney",
+				"time": "0:50"
+			}
+		],
+		"slider": [
+			{
+				"src": "img/eboffice_slide-1.jpg",
+				"caption": "Nursery workers stand in one of the greenhouses on the Elllwanger & Barry Nursery grounds. By 1870, the nursery employed 250 men for eight months of the year and 50 for the other four months.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-2.jpg",
+				"caption": "Although the area of the nursery tNursery workers stand in one of the greenhouses on the Elllwanger & Barry Nursery grounds. By 1870, the nursery employed 250 men for eight months of the year and 50 for the other four months.his photograph was taken is unknown, these grapes most likely were part of the nursery’s vineyard, which was located on the hilly grounds where the Colgate Rochester Crozer Divinity School is today.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-3.jpg",
+				"caption": "Men tend to the flowers at the nursery.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-4.jpg",
+				"caption": "This illustration shows a birds eye view of the Ellwanger & Barry Nursery grounds. Their office building can be seen in the bottom right hand corner of the image. Patrick Barry’s home is depicted to the right of the office.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-5.jpg",
+				"caption": "This illustration was used in the nursery’s catalogs, advertisements and stationary.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-6.jpg",
+				"caption": "Men work in one of the nursery’s packing sheds. Since many of the nursery’s customers consisted of other nurseries and municipalities, most orders numbered in the thousands. These men would pack both saplings and fully grown plants that would then be sent all over the world. After leaving the nursery arrangements would be made to make sure the plants were properly watered and cared for during their long voyages.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-7.jpg",
+				"caption": "A large factor in Ellwanger & Barry’s prestige came from the numerous awards the nursery received at horticultural exhibitions. The nursery was particularly known for their superior fruit trees that often received first place awards.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/eboffice_slide-8.jpg",
+				"caption": "Ellwanger & Barry also exhibited their horticultural specimens at the 1903 World’s Fair in St. Louis.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"title": "Olmstead Lodge",
+		"heading": "A 20-acre Donation Blossoms Into a Park System",
+		"address": "171 Resevoir Avenue",
+		"lat": 43.130194,
+		"lng": -77.602057,
+		"description": "This is a short sentence about the Olmstead Lodge, which is stated by this app.",
+		"thumb": "img/olmstead-thumb.jpg",
+		"images": [
+			{
+				"src": "img/olmstead-1.jpg",
+				"caption": "A view of the south hillside of Highland Park from a postcard printed in the early 1900s.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead-2.jpg",
+				"caption": "One of Frederick Law Olmsted’s original plans for Highland Park. The reservoir, which is still in the park today, preexisted Olmsted’s involvement. The circular structure to the left of the reservoir indicates the Children’s Pavilion, torn down in 1968, that was built on the park’s summit.",
+				"source": "United States Department of the Interior, National Parks Service, Frederick Law Olmsted National Historic Site Collection"
+			},
+			{
+				"src": "img/olmstead-3.jpg",
+				"caption": "A group of park superintendents ride in a large carriage at the Children’s Pavilion in Highland Park on July 1, 1905.",
+				"source": "Rochester Public Library Local History Division"
+			}
+		],
+		"sections": [
+			"The Olmstead Lodge is located across the street from a triangular lawn featuring several flowerbeds and a prominent sign identifying Highland Park, was named after Fredrick Law Olmstead, the man credited as the Father of American Landscape Architecture. Starting with the design of Central Park, Olmsted and his firm would go on to design hundreds of estates, campuses and municipal parks. Rochester’s park system was one of Olmsted’s larger projects.",
+			"In 1882, notable nurserymen George Ellwanger and Patrick Barry would offer a donation of almost 20-acres of their 600-acre nursery lands to the City of Rochester for the formation of a public park. Prior to this donation, the only public land Rochesterians could go for fresh air and natural refuge from the claustrophobic hustle and bustle of an industrialized city was Mount Hope Cemetery. Although the idea of picnicking among gravestones may seem morbid today, it was a common practice during the Victorian era.",
+			"City officials saw the public preservation of land, which at the time was far outside of the city limits, a waste of taxpayer money. They would turn down the Ellwanger & Barry land donation twice before finally accepting it in1888. That year legislature passed to form a Parks Commission of 21 forward thinking men who had the money and civic backing to accept the 20-acre gift. Men such as Dr. Edward Mott Moore, a physician by trade, George Elliot, a politician, and Bernard McQuiad, Rochester’s first Catholic bishop, foresaw Rochester rapidly expanding outwards from the city’s nucleolus near the Genesee River’s High Falls. Open country and farmland taken for granted by most of the area’s population wouldn’t remain open for long without municipal intervention.",
+			"With power “to select and locate such grounds in or near the City of Rochester” for parkland and a starting budget of $300,000, the Rochester Park’s Commission sought advice from the neighboring city of Buffalo. At the time the development of Buffalo’s park system, the first of it’s kind in America, was well underway. The man behind its design was Frederick Law Olmsted. After reaching out to several notable landscape architects of the time, as per the consul of the Buffalo Parks Commission, Rochester would ultimately hire Olmsted to design its very own park system.",
+			"Olmsted was a firm believer of amplifying the preexisting natural beauty of the landscape in his designs. He adamantly believed that the Genesee River was Rochester’s greatest asset and directed the Parks Commission to buy up as much land they could around the river both north and south of the city’s industrialized center.",
+			"Although the former nursery land that would become Highland Park was the city’s first acquisition, it was the least desirable parcel of land in Olmsted’s eyes. Even during his initial consultation, Olmsted had offered that his firm could deign the areas along the river, while the firm of his previous partner Charles Vaux could handle Highland Park (Vaux ended up declining any involvement). Despite his initial reluctance, Rochester made it clear to Olmsted that he would either design all of Rochester’s parks or none of them.",
+			"After Rochester successfully acquired and surveyed the land requested by Olmsted, the landscape architect commenced his designs. He envisioned three different major parks for the city. North Park, which would later be called Seneca Park, would be picturesque and take advantage of the dramatic views offered by the deep river gorge north of the Lower Falls. Meadow Park, what we know as Genesee Valley Park today, with its soft rolling hills would be pastoral. Finally the design of Ononto Park, now Highland Park, would follow the wishes of Ellwanger & Barry by serving as an arboretum, much like a museum or library of plants.",
+			"Today, the arboretum at Highland has grown to be a world famous showcase of flower, shrub and tree species from around the globe. In blooming season it is also a popular locality for weddings. The Olmsted Lodge is the only indoor facility in the park available for event rentals making it a popular spot for wedding receptions and community meetings."
+		],
+		"tracks": [
+			{
+				"id": 0,
+				"src": "audio/olmstead-1.mp3",
+				"script": "Fredrick Law Olmsted writes to the President of the Parks Commission about the buying land along the river. Read by Gustav Kovalik.",
+				"thumbnail": "img/thumb-olmstead.jpg",
+				"speaker": "Frederick Law Olmsted",
+				"time": "2:33"
+			},
+			{
+				"id": 1,
+				"src": "audio/olmstead-2.mp3",
+				"script": "JoAnn Beck, of the Highlnd Park Conservancy, comments on the genius of Olmsted’s designs",
+				"thumbnail": "img/thumb-beck.jpg",
+				"speaker": "JoAnn Beck",
+				"time": "1:58"
+			},
+			{
+				"id": 2,
+				"src": "audio/olmstead-3.mp3",
+				"script": "Frederick Law Olmsted writes about the prevelance of parks in America. Read by Gustav Kovalik.",
+				"thumbnail": "img/thumb-olmstead.jpg",
+				"speaker": "Frederick Law Olmsted",
+				"time": "1:33"
+			}
+		],
+		"slider": [
+			{
+				"src": "img/olmstead_slide-1.jpg",
+				"caption": "Industrial buildings surround the Genesee River on both sides in the 1910 photograph looking north from the Platt Street Bridge (known today as the Pont de Rennes). Anticipating outward urban expansion, Frederick Law Olmsted urged the Rochester Parks Commission to preserve land around the river both above and below the city for the public.",
+				"source": "United States Department of the Interior, National Parks Service, Frederick Law Olmsted National Historic Site Collection."
+			},
+			{
+				"src": "img/olmstead_slide-2.jpg",
+				"caption": "Mount Hope Cemetery, like many cemeteries in the Victorian era, served as precursor to the parks. Many Rochester citizens would travel to this picturesque graveyard far outside the city boundaries to picnic and enjoy the fresh air.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-3.jpg",
+				"caption": "An early 20th century postcard depicts a variety of flowerbeds at Highland Park . The park was created to be a horticultural preserve, and local nurserymen George Ellwanger and Patrick Barry made generous donations of shrubs and trees.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-4.jpg",
+				"caption": "An early 19th century postcard depicts visitors walking among springtime blooms in Highland Park.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-5.jpg",
+				"caption": "This bird’s eye view of the reservoir and Children’s Pavilion in Highland Park was taken in 1934 as part of the Rochester Centennial celebration.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-6.jpg",
+				"caption": "One of Olmsted’s original plans for Seneca Park. While Olmsted wanted to highlight the Genesee Rive in both Seneca and Genesee Valley parks, his Seneca design specifically highlighted the dramatic views that the river gorge north of the city provided.",
+				"source": "United States Department of the Interior, National Parks Service, Frederick Law Olmsted National Historic Site Collection."
+			},
+			{
+				"src": "img/olmstead_slide-7.jpg",
+				"caption": "A flock of sheep once roamed the grounds of Genesee Valley Park. Although the sheep maintained the park’s grass, they were actually integrating into the park to further emphasize the park’s pastoral design as per Olmsted’s suggestion.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-8.jpg",
+				"caption": "Children sit along a long slide in Maplewood Park in 1914. The area that became Maplewood Park was originally part of Olmsted’s design for Seneca Park.",
+				"source": "Albert R. Stone Negatives Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/olmstead_slide-9.jpg",
+				"caption": "These sketches of trees were part of a plan for Genesee Valley Park done by the Olmsted Brothers Architects in 1914. John and Frederick Law Jr. were both active in their father’s firm growing up and continued working with the city of Rochester after Frederick Law Olmsted died in 1903.",
+				"source": "United States Department of the Interior, National Parks Service, Frederick Law Olmsted National Historic Site Collection"
+			},
+			{
+				"src": "img/olmstead_slide-10.jpg",
+				"caption": "A car drives past the bandstand at Seneca Park’s Trout Lake. The bandstand was built in 1910. Bandstands were built in a number of Rochester parks during that era, and concert performances were highly popular events.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-11.jpg",
+				"caption": "A woman leans to drink from a wooden trough along one of the many trails in Seneca Park in a postcard from the early 1900s.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-12.jpg",
+				"caption": "Visitors walk along Seneca Park’s paths in this early 20th century postcard.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/olmstead_slide-13.jpg",
+				"caption": "The City of Rochester also commissioned Frederick Law Olmsted to design a grand civic center that was never built.",
+				"source": "Department of the Interior, National Parks Service, Frederick Law Olmsted National Historic Site Collection"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"title": "Children's Pavillion",
+		"heading": "Fresh Air for Future Generations",
+		"address": "43°07’55”N 77°36’10”W",
+		"lat": 43.132,
+		"lng": -77.602806,
+		"description": "This is a short sentence about the Children's Pavillion, which is stated by this app.",
+		"thumb": "img/childrens-thumb.jpg",
+		"images": [
+			{
+				"src": "img/childrens-1.jpg",
+				"caption": "The Children’s Pavilion, also known as the Memorial Pavilion was built in 1890 as the crowning summit of Highland Park. It served as a memorial to Patrick Barry who had died only a few months earlier and was also dedicated to the children of Rochester.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/childrens-2.jpg",
+				"caption": "Joseph Heustis Barry, referred to as Heustis by his family, was one of William Crawford Barry’s seven children. Heustis died from an illness at the age of five in 1885 while his father was away at Saranac Lake undergoing tuberculosis treatment. During that same year William and his wife Marie Louise, whom he affectionately called Min, lost a baby girl.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/childrens-3.jpg",
+				"caption": "The Barry family is buried in Holy Sepulchre Cemetery, across the Genesee River from Seneca Park. Rochester’s first bishop, Bernard McQuaid, established the Catholic cemetery and was also a member of the city’s Parks Commission.",
+				"source": "Maeve McMahon"
+			}
+		],
+		"sections": [
+			"The crowning jewel of Olmsted’s Highland Park was a three story, 46-foot high, open-air structure that provided park goers with a panoramic view of the area. Standing on the top floor of the pavilion we could have seen the Bristol hills to the south and Lake Ontario to the north.",
+			"The view was spectacular, but the founding fathers of Rochester’s park system also hoped it would serve another, more important function as well.",
+			"The late 1800s was a time of industrial revolution in the United States. Rochester choked on the same industrial fumes that hung in clouds over most American cities at the time. Although Rochester bragged that quality of civilian life was just as high as the quality of the products it was manufacturing, it was not spared from the diseases, such as cholera and consumption, that ran rampant through crowded industrialized communities.",
+			"Although innovations in medicine and sanitation were in the works, they could not yet keep up with the rate of urban expansion. Park areas, such as the pavilion, were places of refuge for a population that the Parks Commission felt were the most at risk: Rochester’s children.",
+			"Both Frederick Law Olmsted and George Elliot, a prominent member of the Parks Commission, had lost children to cholera. Patrick Barry had watched four of his eight childrens’ lives cut short by tuberculosis before they reached adulthood. Only five years prior to the pavilions erection in 1890, Patrick Barry’s eldest son William Crawford also lost a son to illness. Unfortunately, William was away from home at a resort recovering from tuberculosis at the time and received the news of his son’s death through correspondence with his wife.",
+			"It was this suffering that persuaded the Ellwanger & Barry firm to donate the funds for the pavilion’s construction. Unfortunately, Patrick Barry would not live to see its completion. After his passing in June 1980, William Crawford Barry would carry on his father’s torch and become George Ellwanger’s full partner. However, as the firm’s original donation of 20 acres punctuated the height of the company, the donation of the Children’s Pavilion would mark the beginning of the end. The Western nurseries and municipalities that once relied on plant stock from Mount Hope Nurseries had matured and were now self-sufficient. By 1890, Ellwanger & Barry’s land was much more valuable than the plants that grew on it. When the third generation of the Ellwanger and Barry families grew to adulthood, the nursery side of the business closed its doors for good.",
+			"The Memorial Pavilion, which would later be referred to as the Children’s Pavilion, was born out of this collective grief to provide a place of respite for budding Rochesterians in hopes that fresh air and a safe place to play would increase their life expectancy. On September 27, 1890, the city’s children were let out of school early to attend the pavilion’s dedication ceremony. The events opened with an address from Bishop McQuaid and other parks officials, followed by a performance from a group of children and a heartfelt thanks from the mother’s of Rochester to Ellwanger & Barry for donating the money to build the structure.",
+			"The Pavilion itself, the only nonliving legacy of Ellwanger & Barry in Highland Park, would also fizzle out of existence. After falling into disrepair, the pavilion was demolished in 1968. Based on a legal document announcing the dismantling of the Children’s Pavilion, a new facility was meant to go up in its place. This has not yet happened. However, the Highland Park Conservancy has been advocating for the Pavilion to be rebuilt. You can find out more about their efforts at the conservancy’s website."
+		],
+		"tracks": [
+			{
+				"id": 0,
+				"src": "audio/childrens-1.mp3",
+				"script": "Frederick Law Olmsted’s letter to Parks Commissioner George Elliot about his plans for the children’s pavilion. Read by Gustav Kovalik.",
+				"thumbnail": "img/thumb-olmstead.jpg",
+				"speaker": "Frederick Law Olmsted",
+				"time": "2:05"
+			},
+			{
+				"id": 1,
+				"src": "audio/childrens-2.mp3",
+				"script": "Marie Louise Gaffney Barry’s letter to her husband informing him of their son’s death. Read by Mev McMahon.",
+				"thumbnail": "img/thumb-barry.jpg",
+				"speaker": "Marie Barry",
+				"time": "1:15"
+			},
+			{
+				"id": 2,
+				"src": "audio/childrens-3.mp3",
+				"script": "Bishop McQuaid addresses the crowd during the Memorial Pavilion Dedication in Sept. 1890. Read by Rob Storms.",
+				"thumbnail": "img/thumb-mcquaid.jpg",
+				"speaker": "Bishop McQuaid",
+				"time": "3:04"
+			}
+		],
+		"slider": [
+			{
+				"src": "img/childrens_slide-1.jpg",
+				"caption": "The boys and girls who attend the Edward Mott Moore Open Air School rest on deck chairs in their open-air classroom. The school began in 1909 in a tent, as a day camp for pretubercular children. Fresh air, sunlight and bed rest, often in the open air even in winter, were the standard treatments for tuberculosis before the advent of modern drugs.",
+				"source": "Albert R. Stone Negatives Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/childrens_slide-2.jpg",
+				"caption": "Soot fills the air looking north over North Fitzhugh Street from the bell tower of Rochester’s city hall in this photograph from the 1890s. Parks were seen a refuge from the pollution and tight quarters of industrial city life.",
+				"source": "Rochester Municipal Archives"
+			},
+			{
+				"src": "img/childrens_slide-3.jpg",
+				"caption": "A bird’s eye view of Highland Park",
+				"source": "Highland Park Conservancy"
+			},
+			{
+				"src": "img/childrens_slide-4.jpg",
+				"caption": "The Children’s Pavilion stands past the rhododendron bushes at the pinnacle of Highland Park.",
+				"source": "Highland Park Conservancy"
+			},
+			{
+				"src": "img/childrens_slide-5.jpg",
+				"caption": "Patrick Barry (middle row, center) sits with his family. Four of his eight children would die in young adulthood of tuberculosis.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/childrens_slide-6.jpg",
+				"caption": "This invitation announces the dedication of the pavilion. Rochester schools let out early that day so that the city’s children could attend. Although the pavilion is more commonly referred to today as the Children’s Pavilion, it was originally widely referred to as the Memorial Pavilion.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/childrens_slide-7.jpg",
+				"caption": "Both horseless and horse drawn carriages park on the drive that wrapped around the pavilion.",
+				"source": "Highland Park Conservancy"
+			},
+			{
+				"src": "img/childrens_slide-8.jpg",
+				"caption": "Crowds gathered near pavilion during the 1955 Lilac Time celebration.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/childrens_slide-9.jpg",
+				"caption": "A bird’s eye view of the pavilion.",
+				"source": "Highland Park Conservancy"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"title": "The Lilac Collection",
+		"heading": "Parksmen Carry on Cultivation",
+		"address": "43°07’47”N 77°36’22”W",
+		"lat": 43.129944,
+		"lng": -77.606222,
+		"description": "This is a short sentence about the Lilac Festival, which is stated by this app.",
+		"thumb": "img/lilac-thumb.jpg",
+		"images": [
+			{
+				"src": "img/lilac-1.jpg",
+				"caption": "Visitors walk among the Highland Park lilacs in this postcard from early 1900s. The first plantings of lilac shrubs took place in 1890 when several thousand plants were installed on the park's southern slopes. The lilacs drew thousands of visitors to the park, and over time became an internationally known attraction marked by the annual Lilac Festival in May.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lilac-2.jpg",
+				"caption": "Calvin C. Laney visits the Lamberton Conservatory in Highland Park on his 82nd birthday in 1932. Laney became Park Surveyor of Rochester in 1888 beginning his career with the Monroe County Parks System that lasted until his retirement from Superintendent of Parks in 1928.",
+				"source": "Albert R. Stone Negatives Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lilac-3.jpg",
+				"caption": "Rochester Public Library employees walk among the shrubs during the 1955 Lilac Time festivities in Highland Park.",
+				"source": "Rochester Public Library Local History Division"
+			}
+		],
+		"sections": [
+			"Although Mount Hope Nurseries would cease to be the nursery giant that it once was by the turn of the century, the development of Highland Park was only just getting started. Once Frederick Law Olmsted’s preliminary designs were laid down, the Parks Commission was tasked with the heavy lifting of physically laying out what would become Genesee Valley, Seneca and Highland Parks. This involved clearing land of existing structures and over growth, grading land and planting hundreds of thousands of trees and shrubs.In 1889, the Parks Commission appointed Calvin C. Laney, the man originally hired to survey all three parks for Olmsted, to the newly created Superintendent of Parks position. Although Laney had experience in overseeing men moving land with his previous jobs working for several railroad companies, he lacked the horticultural skills needed to develop an arboretum. In 1891, Laney began searching for a man that would be able to take on such a task. Through mutual correspondences he finally found John Dunbar.",
+			"In 1889, the Parks Commission appointed Calvin C. Laney, the man originally hired to survey all three parks for Olmsted, to the newly created Superintendent of Parks position. Although Laney had experience in overseeing men moving land with his previous jobs working for several railroad companies, he lacked the horticultural skills needed to develop an arboretum. In 1891, Laney began searching for a man that would be able to take on such a task. Through mutual correspondences he finally found John Dunbar.",
+			"Dunbar was born in Scotland in 1859. Before coming to America at the age of 28, he had already worked as a journeyman gardener for several noble estates in Scotland and England.",
+			"When he reached the United States, he began working for an estate on Long Island as an assistant to a leading American horticulturist at the time. It was through this man’s recommendation that Dunbar would begin developing Highland Park’s extensive plant collection.",
+			"Although Dunbar’s involvement would expand to all the Rochester Parks, his main accomplishments took place at Highland. Here he would establish a nursery where fledging plants would be cultivated before being spread throughout all of Rochester’s parks.",
+			"He established a relationship with Harvard University’s famous Arnold Arboretum to exchange plant specimens that still continues today. He also oversaw the planting of Highland Park’s shrub collection to the south and arboretum of conifer trees to the north. His most famous contribution, however, was the cultivation of 31 new varieties of lilacs.",
+			"John Dunbar named most of his lilacs after famous Americans such as Alexander Hamilton, Susan B. Anthony and President Teddy Roosevelt as well as Rochesterians such as Alexander Lamberton, William C. Barry and Calvin C. Laney. Although the General Sherman was Dunbar’s favorite creation, his most well known cultivar is the single flowering President Lincoln, which was considered to be the “truest blue” lilac during Dunbar’s time.",
+			"The lilac collection John Dunbar was instrumental in creating at Highland Park has always been the parks system’s largest crowd pleaser. One spring Sunday in 1908, about 25,000 visitors unofficially gathered to admire the blooms of Highland’s lilacs. Soon the city of Rochester began to celebrate Lilac Sunday festivities, including a parade, band performances and a “Lilac Queen” contest. In 1978, the event bloomed the 10-day-long Lilac Festival the city continues to celebrate, attracting over 500,000 visitors annually."
+		],
+		"tracks": [
+			{
+				"id": 0,
+				"src": "audio/lilac-1.mp3",
+				"script": "Frederick Law Olmsted predicts the wide of Highland Park’s arboretum. Read by Gustav Kovalik.",
+				"thumbnail": "img/thumb-olmstead.jpg",
+				"speaker": "Frederick Law Olmstead",
+				"time": "2:34"
+			},
+			{
+				"id": 1,
+				"src": "audio/lilac-2.mp3",
+				"script": "Dan Cody, of the Rochester Historical Society, shares his personal connection to Highland Park.",
+				"thumbnail": "img/thumb-cody.jpg",
+				"speaker": "Dan Cody",
+				"time": "0:30"
+			},
+			{
+				"id": 2,
+				"src": "audio/lilac-3.mp3",
+				"script": "Susan Maney, of the Monroe County Parks Department, comments on why Highland Park is special.",
+				"thumbnail": "img/thumb-maney.jpg",
+				"speaker": "Susan Maney",
+				"time": "1:04"
+			}
+		],
+		"slider": [
+			{
+				"src": "img/lilac_slide-1.jpg",
+				"caption": "Two women and a man admire the 1916 pansy bed in Highland Park. Although Highland Park’s lilacs are considered center stage during the springtime bloom, the ornately designed pansy bed has accompanied Rochester’s Lilac Festival for a very long time.",
+				"source": "Albert R. Stone Negatives Collection, Rochester Museum and Science CenterA large crowd gathers in Highland Park near the reservoir to see the parade of the Lilac Queen and her court during the Lilac Festival in May 1930."
+			},
+			{
+				"src": "img/lilac_slide-2.jpg",
+				"caption": "A large crowd gathers in Highland Park near the reservoir to see the parade of the Lilac Queen and her court during the Lilac Festival in May 1930.",
+				"source": "Albert R. Stone Negatives Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lilac_slide-3.jpg",
+				"caption": "Christina M. Blackwell, the 1930 Lilac Queen, sits on a covered podium holding her trophy.",
+				"source": "Albert R. Stone Negatives Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lilac_slide-4.jpg",
+				"caption": "Festivalgoers walk around Highland Par in a postcard advertising Rochester’s Lilac Time.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lilac_slide-5.jpg",
+				"caption": "Rochester Public Library employees pose among flowering shrubs during the 1955 Lilac Time festivities in Highland Park.Rochester Public Library Local History Division",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lilac_slide-6.jpg",
+				"caption": "John Dunbar was Highland Park’s first horticulturist and oversaw the planting of the original shrub collection in Highland Park. Having an affinity for lilacs, he developed thirty different varieties during his career with the Rochester parks. Two of his famed Syringa cultivars included the “President Lincoln” lilac (credited during his time as “the bluest” lilac) and the “Rochester” lilac.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lilac_slide-7.jpg",
+				"caption": "A postcard advertises Lilac Time in Rochester.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lilac_slide-8.jpg",
+				"caption": "Festivalgoers enjoy both the lilac collection and the pansy bed in May 1982.",
+				"source": "Rochester City Hall Photo Lab Cotemporary Collection"
+			},
+			{
+				"src": "img/lilac_slide-9.jpg",
+				"caption": "A variety of lilac named Frederick Law Olmsted planted in memory of Ida Perdue grows near a Highland Park path in May 2015. Many of the lilac shrubs in Highland Park were planted in memory of the deceased. ",
+				"source": "Maeve McMahon"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"title": "Lamberton Conservatory",
+		"heading": "Museum of Plants",
+		"address": "180 Reservoir Ave",
+		"lat": 43.131886,
+		"lng": -77.608288,
+		"description": "This is a short sentence about the Lamberton Conservatory, which is stated by this app.",
+		"thumb": "img/lamberton-thumb.jpg",
+		"images": [
+			{
+				"src": "img/lamberton-1.jpg",
+				"caption": "Men and women gather at the main entrance of the Lamberton Conservatory in this photo taken around 1911. It is widely thought that this photo shows the dedication ceremony for the conservatory.",
+				"source": "Albert R. Stone Negative Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lamberton-2.jpg",
+				"caption": "This composite photo shows an image taken by Richard E. Horsey, foreman of Highland Park from 1908-1949, as well as the catalog information originally pasted to the back. Images like these were placed in the parks department&#39;s herbarium, which served as a horticultural library of specimens. Although the herbarium at Highland Park is still around today, it is not publicly accessible and new specimens are no longer being added. Instead, the Monroe County Parks catalogs their plant material on an online database.",
+				"source": "Monroe County Parks Department"
+			},
+			{
+				"src": "img/lamberton-3.jpg",
+				"caption": "Ben Richardson works inside the conservatory during renovations in 1987. The renovations that connected nearby greenhouses to the original conservatory also added on a visitor&#39;s center started in 1984, which took five years to complete.",
+				"source": "Burr Lewis, Democrat and Chronicle"
+			}
+		],
+		"sections": [
+			"While the collection of lilacs attracted thousands of visitors to Highland Park, it was the recreational activities put into place by Parks Commission President Alexander B. Lamberton that made them stay. Like most of the men involved in developing Rochester’s parks, Lamberton was an immigrant. Born in Ireland in 1839, his family came to the United States when he was very young. Lamberton’s original pursuit of theology brought him to the “Flower City,” where he attended the University of Rochester. Although he would leave the city after graduating in 1866 to preach in Brooklyn, health problems would bring him back to Rochester where he open a lumberyard two years later. This would mark the end of his theological pursuits and the beginning of his municipal involvement.",
+			"Alexander Lamberton was elected to the Parks Commission in 1894 and would serve as its president from 1902-1915. Although Frederick Law Olmsted, the designer of Rochester’s park system, warned that large crowds and recreational facilities in the parks would have a negative impact, Lamberton had different ideas. He believed that the parks should be practical as well as beautiful. While John Dunbar and Calvin Laney were busy developing the horticultural displays in Highland Park, Lamberton expanded the recreational activities available throughout the park system. After large crowds gathered to see Highland’s lilac blooms, Lamberton began a park concert series to further public enjoyment. Under his presidency the parks commission added a clubhouse to the golf course in Genesee Valley Park, developed an arboretum at Durand-Eastman Park and established a zoo at Seneca Park that is still in existence today.",
+			"In June 1910, Alexander Lamberton’s sister-in- law passed away, leaving $20,000 for the construction of a conservatory in her brother-in- law’s honor. A little over a year later, the Highland Park Conservatory, later renamed the Lamberton Conservatory, opened its doors to the public on October 30, 1911.",
+			"For over a century, the Lamberton Conservatory has served as an indoor museum of plants, complimenting the conifer and shrub arboretum’s outside. Along with propagating new plants, Rochester’s parksmen preserved them as well. Lamberton himself was a strong advocate for fish and wildlife protection as well as the preservation of forestland. The creation of both indoor and outdoor arboretums provided, and continues to provide, a living library of different plant species, while the continued maintenance of the collections ensures the protection of endangered plants.",
+			"Looking at the conservatory from Reservoir Avenue, it appears the same as it did when it first opened. The original conservatory consisted of one main dome with a wing on either side. The left wing consisted of an orchid house and the right wing housed desert plants. While the displays in both wings remained consistent for many years, the botanical display in the main dome rotated seasonally.",
+			"The conservatory remained unchanged until its closure in 1984 for a huge renovation. The Monroe County Parks Department spent most of the decade adjoining surrounding greenhouses to the original structure as well as adding on a visitor center, classroom and office space. When construction was finally completed in 1988, the conservatory opened its new doors in the back of the original structure.",
+			"The building would undergo one more major construction in 2007, this time focusing on rehabilitating the original 1911 structure. Up until this point, the steel framework and wind panes were deteriorating from the high humidity required to maintain the plant collections inside. Following the original steelwork pattern, the entirety of the structure was replaced with new materials.",
+			"Today the public can stroll through the Lamberton Conservatory’s botanical displays seven days a week, and enjoy the company of turtles, quail and one very talkative duck named Lucky. Since the conservatory also houses the Monroe County Parks Department offices, staff members are usually around to help educate visitors about Highland Park’s horticulture."
+		],
+		"tracks": [
+			{
+				"id": 0,
+				"src": "audio/lamberton-1.mp3",
+				"script": "Susan Maney, of the Monroe County Parks Department, talks about plant conservation at Highland Park.",
+				"thumbnail": "img/thumb-maney.jpg",
+				"speaker": "Susan Maney",
+				"time": "1:54"
+			},
+			{
+				"id": 1,
+				"src": "audio/lamberton-3.mp3",
+				"script": "Noelle Nagel, of the Monroe County Parks Department, shares the changes made to the 1911 conservatory after a major five-year expansion project in the 1980s.",
+				"thumbnail": "img/thumb-nagel.jpg",
+				"speaker": "Noelle Nagel",
+				"time": "1:41"
+			},
+			{
+				"id": 2,
+				"src": "audio/lamberton-3.mp3",
+				"script": "Noelle Nagel, of the Monroe County Parks Department, shares a story about saving the conservatory’s Jelly Palm from the harsh Rochester winter when the 2007 renovation was prolonged.",
+				"thumbnail": "img/thumb-nagel.jpg",
+				"speaker": "Noelle Nagel",
+				"time": "1:22"
+			}
+		],
+		"slider": [
+			{
+				"src": "img/lamberton_slide-1.jpg",
+				"caption": "(From Left to Right) Alexander Lamberton sits outside a cabin at an Adirondack camp with Myron Bly, Rochester author, and a man who is possibly a guide, in the 1910s. Lamberton was an avid hunter and fisher who travelled across America in search of game. He believed in using nature&#39;s resources responsibly, advocating for the protection of fauna and the preservation of forests.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lamberton_slide-2.jpg",
+				"caption": "Crowds gather in Highland Park to see the lilac blooms. Although Olmsted warned that having too many visitors would negatively impact parkland, Lamberton was a strong believer that the parks were for the people and encouraged events, such as Lilac Time, that drew huge crowds.",
+				"source": "Rochester Public Library Local History Division"
+			},
+			{
+				"src": "img/lamberton_slide-3.jpg",
+				"caption": "A man and three children seated on a sled slide down the ramp in Highland Park. During his time as President of the Parks Commission, Lamberton greatly increased the number of recreational activities available in Rochester’s parks.",
+				"source": "Albert R. Stone Negative Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lamberton_slide-4.jpg",
+				"caption": "(From Left to Right) John Dunbar, Tom Maloy, Kenneth Spry, Calvin C. Laney and a man listed as 'City forester' stand next to a Sequoia Gigantea in Canandaigua County in the 1920s. Under Alexander Lamberton's lead, Dunbar and Laney developed Highland Park's shrub and conifer collections.",
+				"source": "Monroe County Parks Department"
+			},
+			{
+				"src": "img/lamberton_slide-5.jpg",
+				"caption": "A gardener works on some of the 18,000 geranium flats in a nursery greenhouse at Highland Park.",
+				"source": "Albert R. Stone Negative Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lamberton_slide-6.jpg",
+				"caption": "Orchids in pots on display in the Lamberton Conservatory in 1923. Until a large renovation in the mid-1980s, flowers in the conservatory were showcased in pots placed on top of flower benches. Today, most of the displays in the conservatory are planted in boxes that create a more natural feel.",
+				"source": "Albert R. Stone Negative Collection, Rochester Museum and Science Center"
+			},
+			{
+				"src": "img/lamberton_slide-7.jpg",
+				"caption": "Alvin Grant shows Girl Scouts flowers. Grant worked for the Monroe County Park Department for 32 years until he retired from his position of Parks Director in 1977. In addition to providing beautiful botanical displays, the conservatory also serves as an educational experience for visitors.",
+				"source": "Monroe County Parks Department"
+			},
+			{
+				"src": "img/lamberton_slide-8.jpg",
+				"caption": "After the conservatory&#39;s first major renovation in the late 1980s, a platform was added to the main dome room. It was later removed during renovations in 2007, because the shade it cast significantly limited the number of plants that could be grown in the room.",
+				"source": "Dennis R. Floss, Democrat and Chronicle"
+			},
+			{
+				"src": "img/lamberton_slide-9.jpg",
+				"caption": "During December, the Lamberton Conservatory puts on a holiday show featuring poinsettias and other wintery plants. As part of the holiday display, the conservatory is open late on some nights. 'You get just a whole different perspective when you come through at night,' says Noelle Nagel, Horticultural Interpreter for the Monroe County Parks Department. 'It looks magical here.'",
+				"source": "Studio Michaelino"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"title": "Ellwanger Estate",
+		"heading": "Preserving A Family Legacy",
+		"address": "625 Mount Hope Avenue, Rochester, NY 14620",
+		"lat": 43.137550,
+		"lng": -77.615609,
+		"description": "This is a short sentence about the Ellwanger Estate and Garden, which is stated by this app.",
+		"thumb": "img/egarden-thumb.jpg",
+		"images": [
+			{
+				"src": "img/egarden-1.jpg",
+				"caption": "The Ellwanger Estate, pictured here in this undated photograph, was located directly across the street from the Ellwanger & Barry Nursery grounds.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/egarden-2.jpg",
+				"caption": "George Ellwanger stands on the grounds on the nursery. Ellwanger co-founded the Mount Hope Botanical and Pomological Gardens (later shortened to Mount Hope Nurseries) with Patrick Barry.  In an interview with the Rochester Times Union, Helen Ellwanger stated that she would accompany her grandfather during his carriage rounds of the nursery.",
+				"source": "Ellwanger and Barry Papers, Department of Rare Books and Special Collections, University of Rochester Library"
+			},
+			{
+				"src": "img/egarden-3.jpg",
+				"caption": "Autumn leaves scatter across a pathway in the Ellwanger Garden in 2007. “You can walk down the pathway and know that George Ellwanger or Patrick Barry, many friends, walked through that garden, “ says Beverly Gibson, Horticulturist for the Landmark Society of Western New York. “It has evolved over time with the influences of three generations of Ellwanger’s. It still charms people today.”",
+				"source": "Landmark Society of Western New York"
+			}
+		],
+		"sections": [
+			"Hidden behind a high stonewall and thick trees is the estate that George Ellwanger called home. Looking out the second story windows, Ellwanger would have had a clear view of his nursery grounds located just across the street. Horticulture wasn’t just a business for Ellwanger; it was a passion.",
+			"On his property he planted a one-acre garden for his own personal use. Although, the Ellwanger Estate is now a privately owned bed and breakfast, we can thank Helen Ellwanger, the nurseryman’s granddaughter, that her grandfather’s garden remains open to the public by appointment through Landmark Society of Western New York.",
+			"Helen Ellwanger was born in 1885 to Leah Cresswell and Edward S. Ellwanger in the stone house right next door to George Ellwanger’s estate. Her sister Margaret was born fiver years later.",
+			"Although Helen’s father never took an interest in his family’s horticultural business, Helen looked forward to accompanying her grandfather in his carriage as he made rounds of the nursery.",
+			"Following the death of her father in 1897 and her grandfather in 1906, Helen would move with her mother and sister into the home of the Ellwanger family’s patriarch. Initially, Leah took pains to renovate the home and maintain the garden.",
+			"As Helen got older, she became more involved in taking care of both the estate and her sister Margaret, who had a degenerative illness. Neither sister married and instead socialized with other women at high society clubs such as the French Alliance Club and the Century Club.",
+			"Helen would work with the Rochester-born landscape architect Fletcher Steele to maintain the personal garden her grandfather planted in 1867. Steele would also design several additions to the estate, including a green house, a rose garden and a sunroom for Margaret. In addition to preserving the Ellwanger family estate, Helen became an advocate for historical preservation using her inheritance to save historic buildings that were under threat of being bulldozed. In 1937, she founded the Landmark Society of Western New York, an organization that aims to protect locations of historical importance.",
+			"Ms. Ellwanger donated her grandfather’s garden to the Landmark Society in 1980 with the express instructions that the garden be preserved. The garden, hidden behind a wall that thousands of cars pass every day, is a testament to one woman’s devotion to preserving her grandfather’s horticultural legacy. More information about visiting the garden can be found at The Landmark Society of Western New York’s website."
+		],
+		"tracks": [
+			{
+				"id": 0,
+				"src": "audio/egarden-1.mp3",
+				"script": "Beverly Gibson, of the Landmark Society shares insights into Helen’s personality through the memories of her cousin Helen Brooks.",
+				"thumbnail": "img/thumb-gibson.jpg",
+				"speaker": "Beverly Gibson",
+				"time": "1:26"
+			},
+			{
+				"id": 1,
+				"src": "audio/egarden-2.mp3",
+				"script": "Beverly Gibson, of the Landmark Society, talks about Helen’s relationship with Fletcher Steele",
+				"thumbnail": "img/thumb-gibson.jpg",
+				"speaker": "Beverly Gibson",
+				"time": "0:40"
+			},
+			{
+				"id": 2,
+				"src": "audio/egarden-3.mp3",
+				"script": "Susan Maney, of the Monrore County Parks Department, shares her insights into how important the garden was to Helen.",
+				"thumbnail": "img/thumb-maney.jpg",
+				"speaker": "Susan Maney",
+				"time": "1:13"
+			}
+		],
+		"slider": [
+			{
+				"src": "img/egarden_slide-1.jpg",
+				"caption": "Helen Ellwanger was the granddaughter of George Ellwanger, a co-founder of Mount Hope Nurseries. After her grandfather’s death in 1906, she moved into his estate with her mother and sister and lived there until her death in 1982.",
+				"source": "Rochester Historical Society"
+			},
+			{
+				"src": "img/egarden_slide-2.jpg",
+				"caption": "Helen was born in the stone house right next door to her grandfather’s estate. Most of George Ellwanger’s children remained close the family homestead when they reached adulthood, as did Patrick Barry’s children who grew up diagonally across the street.",
+				"source": "Maeve McMahon"
+			},
+			{
+				"src": "img/egarden_slide-3.jpg",
+				"caption": "Helen’s sister Margret Ellwanger was five years younger and had a degenerative illness, which kept in her in a wheel chair.  The two sisters never married and lived together until Margret’s death in 1958.",
+				"source": "Rochester Historical Society"
+			},
+			{
+				"src": "img/egarden_slide-4.jpg",
+				"caption": "Helen’s mother Leah hired noted landscape architect Fletcher Steele to design different additions to the Ellwanger Estate.",
+				"source": "Fletcher Steele Collection, Franklin Moon Library, SUNY College of Environmental Science and Forestry"
+			},
+			{
+				"src": "img/egarden_slide-5.jpg",
+				"caption": "This Fletcher Steele designed wall separated the driveway from the lawn.  As Helen grew into adulthood she began to take over her mother’s work improving the landscape of the estate and keeping her grandfather’s garden maintained. She and Fletcher would form a strong friendship that would extend into Helen’s architectural preservation work with the Landmark Society of Western New York.",
+				"source": "Steele Collection, Franklin Moon Library, SUNY College of Environmental Science and Forestry"
+			},
+			{
+				"src": "img/egarden_slide-6.jpg",
+				"caption": "Fletcher Steele also designed a green house and rose garden for the Ellwanger’s. Although his landscape designs have achieved historical importance, today the preservation of his work on the Ellwanger Estate is left to the discretion of the homeowners, while the Landmark Society of Western New York cares for George Ellwanger’s original garden.",
+				"source": "Steele Collection, Franklin Moon Library, SUNY College of Environmental Science and Forestry"
+			},
+			{
+				"src": "img/egarden_slide-7.jpg",
+				"caption": "This image taken in 1951 shows the flowering tree garden that Fletcher Steele designed that was once located behind the carriage house. Unfortunately, many of the trees were lost during an infamous 1991 ice storm that wiped out many historic trees in the Rochester area. No preservation effort was made to replant this area of the estate.",
+				"source": "Landmark Society of Western New York"
+			},
+			{
+				"src": "img/egarden_slide-8.jpg",
+				"caption": "Fletcher Steele grew up in nearby Pittsford, N.Y. before traveling to the Boston area to study under renowned American Landscape architect Frederick Law Olmsted. Fletcher would eventually return to the Rochester area and was known to befriend the wealthy heiress that hired him to design their estates.",
+				"source": "The Association of Garden Communicators "
+			},
+			{
+				"src": "img/egarden_slide-9.jpg",
+				"caption": "This sketch shows the outline of the George Ellwanger’s personal garden. Despite the changes made to it over its 100+ year existence, the general outline remains the same.",
+				"source": "Landmark Society of Western New York"
+			},
+			{
+				"src": "img/egarden_slide-10.jpg",
+				"caption": "The Ellwanger Garden in full springtime bloom. “It is like walking into the secret garden from the famous book,” says Cynthia Howk, Architectural Research Coordinator for the Landmark Society of Western New York, referring to The Secret Garden by Frances Hodgson Burnett.",
+				"source": "Landmark Society of Western New York"
+			}
+		]
+	}
+]
