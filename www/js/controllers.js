@@ -7,12 +7,6 @@ angular.module('flowerCity.controllers', [])
 	places.success(function(data) {
 		$scope.places = data;
 	});
-	
-	$scope.$on('$ionicView.loaded', function() {
-    	ionic.Platform.ready( function() {
-       	 	if(navigator && navigator.splashscreen) navigator.splashscreen.hide();
-        });
-    });
 })
 
 .controller('HomeCtrl', function($scope, $ionicScrollDelegate, $location) {
@@ -24,6 +18,8 @@ angular.module('flowerCity.controllers', [])
 		var handle = $ionicScrollDelegate.$getByHandle('homeDelegate');
 		handle.anchorScroll(true);
 	};
+	
+	
 })
 
 .controller('MapCtrl', function($scope, places) {
@@ -34,7 +30,7 @@ angular.module('flowerCity.controllers', [])
 	var mapOptions = {
 		zoom: 			14,
 		center: 		myLatLng,
-		mapTypeId: google.maps.MapTypeId.ROADMAP,
+		mapTypeId: 		google.maps.MapTypeId.ROADMAP,
 		
 		/* Adapted from personal Snazzy Maps style "Mostly Shapes"
 		--------------------------------------*/
@@ -238,7 +234,7 @@ angular.module('flowerCity.controllers', [])
 			marker.content = 
 			"<div class='infoContainer'>" +
 				"<h4 class='infoTitle'>" + marker.title + "</h4>" +
-				 "<button id='closeBtn'>&times;</button>" +
+				 "<button id='closeBtn'></button>" +
 				"<div class='infoContent'>" +
 					"<img src='" + info.thumb + "'/>" +
 					"<p> Chapter " + info.id + ": " + info.heading + "</p>" +

@@ -10,6 +10,10 @@ angular.module('flowerCity', ['ionic', 'flowerCity.controllers', 'flowerCity.ser
     if (window.StatusBar) {
       StatusBar.styleDefault();
     }
+	document.addEventListener("deviceready", onDeviceReady, false);
+	function onDeviceReady() {
+		$ionic.resize();
+	}
   });
 })
 

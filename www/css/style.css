@@ -309,7 +309,7 @@ div.infoContent p:after {
 }
 
 div.moveTail {
-	left: 150px !important;
+	left: 127px !important;
 }
 
 div.moveTail > div > div {
@@ -324,18 +324,28 @@ div.closebutton {
 button#closeBtn {
 	background: #7FC28C;
 	border: 0;
-	outline: 0;
 	color: white;
 	display:block;
-	height: 40px !important;
+	outline: 0;
 	font-size: 20px;
+	height: 40px !important;
 	opacity: 1 !important;
+	position: absolute;
 	right: 0 !important;
 	text-align: center;
 	top: 0 !important;
 	width: 37px !important;
 	z-index: 10000 !important;
+}
+
+button#closeBtn:after {
+	content: "\00d7";
+	font-size: 30px;
+	left:-50%;
+	right: -50%;
 	position: absolute;
+	top:50%;
+	transform: translateY(-50%);
 }
 
 
