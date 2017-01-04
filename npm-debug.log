@@ -1,0 +1,159 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'cordova',
+1 verbose cli   'ipmoc@beta' ]
+2 info using npm@4.0.3
+3 info using node@v6.5.0
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 silly fetchPackageMetaData cordova
+8 silly fetchPackageMetaData ipmoc@beta
+9 silly fetchNamedPackageData cordova
+10 silly mapToRegistry name cordova
+11 silly mapToRegistry using default registry
+12 silly mapToRegistry registry https://registry.npmjs.org/
+13 silly mapToRegistry data Result {
+13 silly mapToRegistry   raw: 'cordova',
+13 silly mapToRegistry   scope: null,
+13 silly mapToRegistry   escapedName: 'cordova',
+13 silly mapToRegistry   name: 'cordova',
+13 silly mapToRegistry   rawSpec: '',
+13 silly mapToRegistry   spec: 'latest',
+13 silly mapToRegistry   type: 'tag' }
+14 silly mapToRegistry uri https://registry.npmjs.org/cordova
+15 silly fetchNamedPackageData ipmoc
+16 silly mapToRegistry name ipmoc
+17 silly mapToRegistry using default registry
+18 silly mapToRegistry registry https://registry.npmjs.org/
+19 silly mapToRegistry data Result {
+19 silly mapToRegistry   raw: 'ipmoc',
+19 silly mapToRegistry   scope: null,
+19 silly mapToRegistry   escapedName: 'ipmoc',
+19 silly mapToRegistry   name: 'ipmoc',
+19 silly mapToRegistry   rawSpec: '',
+19 silly mapToRegistry   spec: 'latest',
+19 silly mapToRegistry   type: 'tag' }
+20 silly mapToRegistry uri https://registry.npmjs.org/ipmoc
+21 verbose request uri https://registry.npmjs.org/ipmoc
+22 verbose request no auth needed
+23 info attempt registry request try #1 at 12:16:15 PM
+24 verbose request id a287c7c919ab4890
+25 http request GET https://registry.npmjs.org/ipmoc
+26 verbose request uri https://registry.npmjs.org/cordova
+27 verbose request no auth needed
+28 info attempt registry request try #1 at 12:16:15 PM
+29 verbose etag "WN9IXGXSZ2IBFC89CM8OV7MU"
+30 http request GET https://registry.npmjs.org/cordova
+31 http 200 https://registry.npmjs.org/cordova
+32 verbose headers { server: 'nginx/1.10.1',
+32 verbose headers   'content-type': 'application/json',
+32 verbose headers   'last-modified': 'Sat, 31 Dec 2016 14:51:12 GMT',
+32 verbose headers   etag: 'W/"5867c5e0-10470b"',
+32 verbose headers   'content-encoding': 'gzip',
+32 verbose headers   'cache-control': 'max-age=300',
+32 verbose headers   'content-length': '39703',
+32 verbose headers   'accept-ranges': 'bytes',
+32 verbose headers   date: 'Tue, 03 Jan 2017 17:16:15 GMT',
+32 verbose headers   via: '1.1 varnish',
+32 verbose headers   age: '0',
+32 verbose headers   connection: 'keep-alive',
+32 verbose headers   'x-served-by': 'cache-ord1735-ORD',
+32 verbose headers   'x-cache': 'HIT',
+32 verbose headers   'x-cache-hits': '1',
+32 verbose headers   'x-timer': 'S1483463775.814286,VS0,VE19',
+32 verbose headers   vary: 'Accept-Encoding' }
+33 silly get cb [ 200,
+33 silly get   { server: 'nginx/1.10.1',
+33 silly get     'content-type': 'application/json',
+33 silly get     'last-modified': 'Sat, 31 Dec 2016 14:51:12 GMT',
+33 silly get     etag: 'W/"5867c5e0-10470b"',
+33 silly get     'content-encoding': 'gzip',
+33 silly get     'cache-control': 'max-age=300',
+33 silly get     'content-length': '39703',
+33 silly get     'accept-ranges': 'bytes',
+33 silly get     date: 'Tue, 03 Jan 2017 17:16:15 GMT',
+33 silly get     via: '1.1 varnish',
+33 silly get     age: '0',
+33 silly get     connection: 'keep-alive',
+33 silly get     'x-served-by': 'cache-ord1735-ORD',
+33 silly get     'x-cache': 'HIT',
+33 silly get     'x-cache-hits': '1',
+33 silly get     'x-timer': 'S1483463775.814286,VS0,VE19',
+33 silly get     vary: 'Accept-Encoding' } ]
+34 verbose get saving cordova to /Users/high_school_chick/.npm/registry.npmjs.org/cordova/.cache.json
+35 verbose correctMkdir /Users/high_school_chick/.npm correctMkdir not in flight; initializing
+36 http 404 https://registry.npmjs.org/ipmoc
+37 verbose headers { 'content-type': 'application/json',
+37 verbose headers   'cache-control': 'max-age=0',
+37 verbose headers   'content-length': '2',
+37 verbose headers   'accept-ranges': 'bytes',
+37 verbose headers   date: 'Tue, 03 Jan 2017 17:16:16 GMT',
+37 verbose headers   via: '1.1 varnish',
+37 verbose headers   age: '0',
+37 verbose headers   connection: 'keep-alive',
+37 verbose headers   'x-served-by': 'cache-ord1732-ORD',
+37 verbose headers   'x-cache': 'MISS',
+37 verbose headers   'x-cache-hits': '0',
+37 verbose headers   'x-timer': 'S1483463775.702480,VS0,VE420',
+37 verbose headers   vary: 'Accept-Encoding' }
+38 silly get cb [ 404,
+38 silly get   { 'content-type': 'application/json',
+38 silly get     'cache-control': 'max-age=0',
+38 silly get     'content-length': '2',
+38 silly get     'accept-ranges': 'bytes',
+38 silly get     date: 'Tue, 03 Jan 2017 17:16:16 GMT',
+38 silly get     via: '1.1 varnish',
+38 silly get     age: '0',
+38 silly get     connection: 'keep-alive',
+38 silly get     'x-served-by': 'cache-ord1732-ORD',
+38 silly get     'x-cache': 'MISS',
+38 silly get     'x-cache-hits': '0',
+38 silly get     'x-timer': 'S1483463775.702480,VS0,VE420',
+38 silly get     vary: 'Accept-Encoding' } ]
+39 silly fetchPackageMetaData Error: Registry returned 404 for GET on https://registry.npmjs.org/ipmoc
+39 silly fetchPackageMetaData     at makeError (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:302:12)
+39 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:280:14)
+39 silly fetchPackageMetaData     at Request._callback (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:210:14)
+39 silly fetchPackageMetaData     at Request.self.callback (/usr/local/lib/node_modules/npm/node_modules/request/request.js:186:22)
+39 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+39 silly fetchPackageMetaData     at Request.emit (events.js:191:7)
+39 silly fetchPackageMetaData     at Request.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1081:10)
+39 silly fetchPackageMetaData     at emitOne (events.js:96:13)
+39 silly fetchPackageMetaData     at Request.emit (events.js:188:7)
+39 silly fetchPackageMetaData     at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1001:12)
+39 silly fetchPackageMetaData  error for ipmoc@beta { Error: Registry returned 404 for GET on https://registry.npmjs.org/ipmoc
+39 silly fetchPackageMetaData     at makeError (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:302:12)
+39 silly fetchPackageMetaData     at CachingRegistryClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:280:14)
+39 silly fetchPackageMetaData     at Request._callback (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:210:14)
+39 silly fetchPackageMetaData     at Request.self.callback (/usr/local/lib/node_modules/npm/node_modules/request/request.js:186:22)
+39 silly fetchPackageMetaData     at emitTwo (events.js:106:13)
+39 silly fetchPackageMetaData     at Request.emit (events.js:191:7)
+39 silly fetchPackageMetaData     at Request.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1081:10)
+39 silly fetchPackageMetaData     at emitOne (events.js:96:13)
+39 silly fetchPackageMetaData     at Request.emit (events.js:188:7)
+39 silly fetchPackageMetaData     at IncomingMessage.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/request/request.js:1001:12) pkgid: 'ipmoc', statusCode: 404, code: 'E404' }
+40 silly rollbackFailedOptional Starting
+41 verbose stack TypeError: Cannot read property 'path' of null
+41 verbose stack     at Object.Installer.rollbackFailedOptional (/usr/local/lib/node_modules/npm/lib/install.js:505:29)
+41 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+41 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+41 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:18:7
+41 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:331:5
+41 verbose stack     at Array.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/slide/lib/bind-actor.js:15:8)
+41 verbose stack     at LOOP (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:15:14)
+41 verbose stack     at chain (/usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:20:5)
+41 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:288:5
+41 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/slide/lib/chain.js:16:22
+42 verbose cwd /Users/high_school_chick/Documents/Classes 2016 Fall/Independent Study/flower_city
+43 error Darwin 16.0.0
+44 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "cordova" "ipmoc@beta"
+45 error node v6.5.0
+46 error npm  v4.0.3
+47 error Cannot read property 'path' of null
+48 error If you need help, you may report this error at:
+48 error     <https://github.com/npm/npm/issues>
+49 verbose exit [ 1, true ]

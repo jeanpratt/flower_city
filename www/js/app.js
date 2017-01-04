@@ -1,4 +1,4 @@
-angular.module('flowerCity', ['ionic', 'flowerCity.controllers', 'flowerCity.services'])
+angular.module('flowerCity', ['ionic', 'ionic.cloud' 'flowerCity.controllers', 'flowerCity.services'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {

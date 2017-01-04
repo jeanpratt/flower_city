@@ -1,6 +1,6 @@
 angular.module('flowerCity.controllers', [])
 
-.controller('AppCtrl', function($scope, places) {
+.controller('AppCtrl', function($scope, $ionicDeploy, places) {
 	
 	/* Load data for menu.html
 	--------------------------------------*/
